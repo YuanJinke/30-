@@ -55,6 +55,7 @@
 | 30 | Simon Says | 益智 | 记忆序列游戏，重复正确的顺序 |
 
 ## 🚀 快速开始
+   https://dcwve4453oofw.ok.kimi.link 点击即完
 
 ### 前置要求
 
