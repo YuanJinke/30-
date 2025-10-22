@@ -7,7 +7,7 @@
 
 一个精心设计的游戏大厅网站，包含30个使用HTML、CSS和JavaScript开发的精彩游戏。每个游戏都经过精心设计，提供流畅的游戏体验和现代化的界面。
 
-![游戏大厅预览](https://github.com/yourusername/game-hub/raw/main/preview.png)
+![游戏大厅预览](https://dcwve4453oofw.ok.kimi.link/)
 
 ## ✨ 特性
 
@@ -163,6 +163,7 @@ game-hub/
 - 感谢所有为这个项目做出贡献的开发者
 - 感谢Tailwind CSS、p5.js和Font Awesome等开源项目
 - 游戏灵感和部分代码来源于开源社区
+- 感谢Kimi2.0的ok computer模式帮助集成
 
 ## 📄 许可证
 
